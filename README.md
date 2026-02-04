@@ -1,5 +1,5 @@
 # Aplicacion-Flask
-## Vista Previa
+## Vista Previa De La Pagina Web
 ![Vista previa](imagen.png)
 ## Como ejecutar el codigo
 Para ejecutar el codigo se deben seguir los siguientes pasos:
